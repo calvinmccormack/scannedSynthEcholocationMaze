@@ -1,0 +1,40 @@
+# --- Unity generated folders ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+sysinfo.txt
+*.stacktrace
+
+# --- Platform-specific build folders ---
+[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# --- IDE files ---
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Optional large files (if not needed) ---
+*.wav
+*.aiff
+*.mp3
+*.png
+*.jpg
+*.mp4
